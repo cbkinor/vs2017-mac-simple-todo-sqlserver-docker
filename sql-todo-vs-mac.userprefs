@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{B8AFBCFE-549C-46B9-938C-DFBA53BC2544}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="sql-todo-vs-mac.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
     <Files>
       <File FileName="appsettings.json" Line="8" Column="43" />
       <File FileName="Startup.cs" Line="1" Column="1" />
-      <File FileName="sql-todo-vs-mac.csproj" Line="1" Column="1" />
+      <File FileName="sql-todo-vs-mac.csproj" Line="25" Column="60" />
+      <File FileName="README.md" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

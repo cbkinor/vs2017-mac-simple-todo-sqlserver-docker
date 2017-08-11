@@ -1,11 +1,12 @@
-## What's here? ##
-A simple *Todo list* Web API app for [SQL Server](https://www.microsoft.com/en-us/sql) developed using [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/).
+## Cloned from https://github.com/sanagama/sql-todo-vs-mac ##
+A simple *Todo list* Web API app for [SQL Server](https://www.microsoft.com/en-us/sql) developed using [Visual Studio 2017 for Mac](https://www.visualstudio.com/vs/visual-studio-mac/).
 The app uses [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/) with [EF Core](https://docs.microsoft.com/en-us/ef/core/) *code-first* to interact with SQL Server.
 
 ## 1. Pre-requisites
 * Install [.NET Core 1.1](https://www.microsoft.com/net/core#macos) for macOS
 * Install [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
 * Install [SQL Server 2017 in Docker](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-docker) for macOS
+* For Docker, I followed the tutorial with [Mashup] (http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/)
 
 ## 2. Get the source code
 Copy/paste the commands below into a Terminal window to clone the Git repo:
