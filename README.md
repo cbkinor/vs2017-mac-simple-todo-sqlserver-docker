@@ -6,7 +6,7 @@ The app uses [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/) w
 * Install [.NET Core 1.1](https://www.microsoft.com/net/core#macos) for macOS
 * Install [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
 * Install [SQL Server 2017 in Docker](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-docker) for macOS
-* For Docker, I followed the tutorial with [Mashup] (http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/)
+* For Docker, I followed the tutorial with [Mashup](http://thedatafarm.com/data-access/mashup-sql-server-on-linux-in-docker-on-a-mac-with-visual-studio-code/)
 
 ## 2. Get the source code
 Copy/paste the commands below into a Terminal window to clone the Git repo:
