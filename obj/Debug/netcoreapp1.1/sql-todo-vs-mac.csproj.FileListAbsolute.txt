@@ -1,0 +1,11 @@
+/Users/ckuiper/Projects/sql-todo-vs-mac/bin/Debug/netcoreapp1.1/appsettings.json
+/Users/ckuiper/Projects/sql-todo-vs-mac/bin/Debug/netcoreapp1.1/sql-todo-vs-mac.deps.json
+/Users/ckuiper/Projects/sql-todo-vs-mac/bin/Debug/netcoreapp1.1/sql-todo-vs-mac.runtimeconfig.json
+/Users/ckuiper/Projects/sql-todo-vs-mac/bin/Debug/netcoreapp1.1/sql-todo-vs-mac.runtimeconfig.dev.json
+/Users/ckuiper/Projects/sql-todo-vs-mac/bin/Debug/netcoreapp1.1/sql-todo-vs-mac.dll
+/Users/ckuiper/Projects/sql-todo-vs-mac/bin/Debug/netcoreapp1.1/sql-todo-vs-mac.pdb
+/Users/ckuiper/Projects/sql-todo-vs-mac/obj/Debug/netcoreapp1.1/sql-todo-vs-mac.csprojResolveAssemblyReference.cache
+/Users/ckuiper/Projects/sql-todo-vs-mac/obj/Debug/netcoreapp1.1/sql-todo-vs-mac.csproj.CoreCompileInputs.cache
+/Users/ckuiper/Projects/sql-todo-vs-mac/obj/Debug/netcoreapp1.1/sql-todo-vs-mac.AssemblyInfo.cs
+/Users/ckuiper/Projects/sql-todo-vs-mac/obj/Debug/netcoreapp1.1/sql-todo-vs-mac.dll
+/Users/ckuiper/Projects/sql-todo-vs-mac/obj/Debug/netcoreapp1.1/sql-todo-vs-mac.pdb
